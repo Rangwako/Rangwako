@@ -1,7 +1,6 @@
 
 <!-- Optional Banner -->
-<!-- ![Banner](https://github.com/Rangwako/Rangwako/blob/d27a84b1531b0047113593e873e722fd4887758c/ChatGPT%20Image%20Sep%2030%2C%202025%2C%2012_09_30%20PM.png)-image.png) -->
-
+![Image Alt](https://github.com/Rangwako/Rangwako/blob/d27a84b1531b0047113593e873e722fd4887758c/ChatGPT%20Image%20Sep%2030%2C%202025%2C%2012_09_30%20PM.png)
 <h1 align="center">👋 Hi, I’m Simon Gontse Rangwako</h1>
 <h3 align="center">Computer Science & Electronics Graduate | Data Science & Cybersecurity Enthusiast</h3>
 
